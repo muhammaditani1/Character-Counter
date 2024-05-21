@@ -1,0 +1,19 @@
+.header_body {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+  width: fit-content;
+  background-color: aqua;
+  align-items: center;
+}
+.header_logo {
+  /* background-color: black; */
+  width: fit-content;
+}
+.header_logo img {
+  width: 200px;
+  height: auto;
+}
+.Header_title{
+    margin-top: -50px;
+}
